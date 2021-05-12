@@ -44,9 +44,6 @@ https://camo.githubusercontent.com/e643754982a9dba595811285c08c4667f1062a17d9e7e
 ![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=Pulkit3234&show_icons=true&theme=dark)
 
 
-- **Talk is cheap, show me the Code** 😉
-
-⭐️ From [Pulkit](https://github.com/Pulkit3234)
 
 
 <!---
