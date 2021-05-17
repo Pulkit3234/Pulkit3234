@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:pulkitsh08@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://pulkitsh08.medium.com/)](https://pulkitsh08.medium.com/)
 
-I'm Pulkit Sharma,  pre-final year undergrad at Delhi Technological University and a Full Stack Developer 👨‍💻 and an admirer of the beautiful Javascript language. Passionate to develop cool and innovative projects and work in a fast paced environment 🚀. Besides programming and development, I have an avid interest in Physics.<br>
+I'm Pulkit Sharma, a Full Stack Developer 👨‍💻 and an admirer of the beautiful Javascript language. Passionate to develop cool and innovative projects and work in a fast paced environment 🚀. Besides programming and development, I have an avid interest in Physics.<br>
 
 <br>
 
