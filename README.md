@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:pulkitsh08@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://pulkitsh08.medium.com/)](https://pulkitsh08.medium.com/)
 
-I'm Pulkit Sharma, a Full Stack Developer 👨‍💻 who is passionate to develop cool and innovative projects and work in a fast paced environment 🚀. Besides programming and development, I have an avid interest in Physics.<br>
+I'm Pulkit Sharma, a Software Engineer (Backend) 👨‍💻 who is passionate to develop cool and innovative projects and work in a fast paced environment 🚀. Besides programming and development, I have an avid interest in Physics.<br>
 
 <br>
 
@@ -12,7 +12,7 @@ I'm Pulkit Sharma, a Full Stack Developer 👨‍💻 who is passionate to devel
 - 📫 How to reach me: <a href="https://twitter.com/pulkit_sharma3">Twitter</a> or pulkitsh08@gmail.com
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently working on Full Stack Apps
-- 👯 I’m looking for Frontend/Full Stack Engineer Roles!
+- 👯 I’m looking for Backend/Full Stack Engineer Roles!
 - 😊 Find me on medium - <a href="https://pulkitsh08.medium.com/">Medium</a>
 
 <br>
